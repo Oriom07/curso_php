@@ -8,7 +8,8 @@
 <body>
 	<?php
 
-		echo "não estou kkk";
+		echo "não stou perdido";
+		echo "oiiiii";
 	?>
 </body>
 </html>
