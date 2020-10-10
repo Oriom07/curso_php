@@ -8,7 +8,7 @@
 <body>
 	<?php
 
-		echo "To na area kkk";
+		echo "não estou kkk";
 	?>
 </body>
 </html>
